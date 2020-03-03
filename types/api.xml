@@ -1,6 +1,6 @@
-<types namespace="_myNewPackage">
-  <method name="myNewPackage" async return="string">
-    <arg type="!_myNewPackage.Config" name="config">The config.</arg>
-    {{ description }}
+<types namespace="_hotReloadArticle">
+  <method name="hotReloadArticle" async return="string">
+    <arg type="!_hotReloadArticle.Config" name="config">The config.</arg>
+    An article about hot reload.
   </method>
 </types>

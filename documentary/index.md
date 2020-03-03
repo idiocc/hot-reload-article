@@ -1,11 +1,11 @@
-# my-new-package
+# @idio/hot-reload-article
 
-%NPM: my-new-package%
+%NPM: @idio/hot-reload-article%
 
-`my-new-package` is {{ description }}
+`@idio/hot-reload-article` is An article about hot reload.
 
 ```sh
-yarn add my-new-package
+yarn add @idio/hot-reload-article
 ```
 
 ## Table Of Contents

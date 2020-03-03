@@ -1,12 +1,12 @@
-const { _myNewPackage } = require('./mnp')
+const { _hotReloadArticle } = require('./hot-reload-article')
 
 /**
- * @methodType {_myNewPackage.myNewPackage}
+ * @methodType {_hotReloadArticle.hotReloadArticle}
  */
-function myNewPackage(config) {
-  return _myNewPackage(config)
+function hotReloadArticle(config) {
+  return _hotReloadArticle(config)
 }
 
-module.exports = myNewPackage
+module.exports = hotReloadArticle
 
 /* typal types/index.xml namespace */
